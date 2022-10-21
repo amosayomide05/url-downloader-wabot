@@ -1,0 +1,29 @@
+{
+  "name": "Whatsapp Direct Link Downloader",
+  "version": "0.1.0",
+  "description": "A Whatsapp Bot to download direct links and send it to whatsapp using NodeJS",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Amos Ayomide (amosayomide05)",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "qrcode-terminal": "latest",
+    "whatsapp-web.js": "latest",
+    "axios": "latest"
+  },
+  "homepage": "https://github.com/amosayomide05/url-downloader-wabot",
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amosayomide05/url-downloader-wabot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/amosayomide05/url-downloader-wabot/issues"
+  }
+}
